@@ -10,5 +10,8 @@ Podział zadań:
 - Tomek: 1, 3
 - Wojtek: 2, 4
 
-
-Notatki z labów na miejscu
+Plan działania:
+1. rozwiązanie zadań w osobnych plikach .py
+2. zebranie tego w notatniku .ipynb
+3. kompilacja do pdf
+4. przesłanie mailem
