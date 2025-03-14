@@ -7,8 +7,8 @@ pliki:
 - 101_Kukielka_Kurzela.pdf
 
 Podział zadań:
-- Tomek: 1, 3
-- Wojtek: 2, 4
+- Tomasz: 1, 3
+- Wojciech: 2, 4
 
 Plan działania:
 1. rozwiązanie zadań w osobnych plikach .py
